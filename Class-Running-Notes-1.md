@@ -144,10 +144,7 @@ SSMS is installed separately from the Database Engine in modern SQL Server insta
 
 [SmartData Fabric® v8.0 Help](https://images.openai.com/static-rsc-4/gl91HH5KSMzQD16KFY-U0rmuMZvf3Zl9q27aWU2Uqv3dFDu7qi-O9MqBGtv02qOqZ_N4GiTHzEJIKDA26ITDexbB73AIahme7VhqSUtwC-SYUQuxfjtYq9DDKmxv7wmxpvSqJL4fFM2eMXaunpwsmkTzLkV18KWZtjcyFMu9SXk?purpose=inline)
 
-[whamtech.com](https://www.whamtech.com/sdf_help/v8/index.htm?page=EIQ_Server_SDK%2FOther+Help%2FMicrosoft_Message_Queueing_Setup%2FMSMQ_Private_Queues.htm\)
-
 Used for:
-
 - Starting SQL Server services.
 - Stopping SQL Server services.
 - Restarting SQL Server services.
